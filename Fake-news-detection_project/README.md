@@ -1,1 +1,1 @@
-# Fake-news-detection-new
+# Fake-news-detection-Using-Ibm-Watson-studio
